@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Enterprise-DotNet-Observability-Suite/bin/Debug/net10.0
+/Enterprise-DotNet-Observability-Suite/obj
+/.vs
